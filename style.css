@@ -1,0 +1,46 @@
+.texto {
+    width: 350px;
+    font-size: 20px;
+    padding: 20px;
+    margin-bottom: 40px;
+}
+.paragrafo-padrao {
+    background-color: #f5f5f5;
+}
+.paragrafo-destacado {
+    background-color: #facce2;
+}
+.cabecalho-moda {
+    background-color: #bb86fc;
+    font-size: 25px;
+}
+.cabecalho-moda th {
+    color: white;
+    padding: 10px;
+}
+.produto-moda {
+    background-color: #424250;
+    font-size: 20px;
+}
+.produto-moda th {
+    color: white;
+    padding: 10px;
+    text-align: start;
+}
+.cabecalho-casa {
+    background-color: #00c4b4;
+    font-size: 25px;
+}
+.cabecalho-casa th {
+    color: white;
+    padding: 10px;
+}
+.produto-casa {
+    background-color: #424250;
+    font-size: 20px;
+}
+.produto-casa th {
+    color: white;
+    padding: 10px;
+    text-align: start;
+}
